@@ -38,12 +38,18 @@ It was determined that although urban city types were the bulk of the ride count
 		* Urban: $16.57 per driver
 		* Suburban: $39.50 per driver
 		* Rural: $55.49 per driver
+
+![Pyber_DF](https://user-images.githubusercontent.com/106691255/180352766-7e7fdbfe-c762-4999-b3d5-21dbfe410a6d.png)
+
+
+		
 	- Total Weekly Fares for Each City Type
 		* Urban: Between $1,700 and $2,500 per week
 		* Suburban: Between $750 and $1,800 per week
 		* Rural: Between $0 and $500 per week
+![PyBer_fare_summary](https://user-images.githubusercontent.com/106691255/180352528-10793a8e-ff1f-4ef7-80ac-2caa4f1b9976.png)
 
-##Summary:
+## Summary:
 
 Business recommendations related to the data analysis findings:
 
